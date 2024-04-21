@@ -102,7 +102,7 @@ export const data: Question[] = [
       "any area recorded as forest in the Government record irrespective of ownership",
     ],
     answer:
-      "any area recorded as forest in the Government record irrespective of ownership ",
+      "any area recorded as forest in the Government record irrespective of ownership",
   },
   {
     question: "In the context of plant nutrition, boron is",
@@ -696,9 +696,9 @@ export const data: Question[] = [
   {
     question: "Which of these is the correct sequence for shelterwood system?",
     options: [
-      "Preparatory felling ->Secondary felling -> Seedling felling -> Final felling",
+      "Preparatory felling -> Secondary felling -> Seedling felling -> Final felling",
       "Preparatory felling -> Seedling felling -> Secondary felling -> Final felling",
-      "Preparatory felling ->Secondary felling -> Seeding felling -> Final felling",
+      "Preparatory felling -> Secondary felling -> Seeding felling -> Final felling",
       "Preparatory felling -> Seeding felling -> Secondary felling -> Final felling",
     ],
     answer:
